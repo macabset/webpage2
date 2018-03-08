@@ -1,3 +1,0 @@
-options(servr.daemon = TRUE, blogdown.author = "Maika")
-options(blogdown.author = "Maika")
-options(blogdown.subdir = "post")
