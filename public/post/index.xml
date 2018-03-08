@@ -6,10 +6,21 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>publishing site</title>
+      <link>/2018/03/08/publishing-site/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/08/publishing-site/</guid>
+      <description>Yei!The site is out in the world! Although nobody knows about it, it is a mess and I have no idea what I’m doing. ANyway, it is published with a whole new provider, a Netlify sites. A wonder what pictures look like here? This is the way they are done in Rmarkdown webpage style:
+The Kazan Kremlin
+</description>
+    </item>
     
     <item>
       <title>first own post</title>
